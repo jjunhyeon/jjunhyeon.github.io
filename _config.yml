@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "데이터 입문자입니다."
+title                    : "VVV"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "KimJunHyeon"
-description              : "분서가가 되기 위한 공간"
+name                     : "Kim Jun Hyeon"
+description              : "Computer&Science를 전공했고 졸업 후 빅데이터에 눈을 뜬 Data 입문자입니다. Statistics,Machine Learning,Database,Python을 좋아합니다."
 url                      : "https://jjunhyeon.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "KimJunHyeon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "1994"
+  name             : "Kim Jun Hyeon"
+  avatar           : "/assets/images/profile.jpg"
+  bio              : "Computer&Science를 전공했고 졸업 후 빅데이터에 눈을 뜬 Data 입문자입니다. Statistics,Machine Learning,Database,Python을 좋아합니다."
   location         : "South Korea"
   email            : "sonjs01@naver.com"
   links:
