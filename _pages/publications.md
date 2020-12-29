@@ -7,5 +7,3 @@ toc: true
 tags: [publication]
 ---
 
-## Journal
-쓸내용들
