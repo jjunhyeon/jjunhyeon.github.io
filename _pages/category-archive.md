@@ -1,4 +1,4 @@
-# category-archive.md
+# Category-archive.md
 ---
 title: "Posts by Category"
 layout: categories

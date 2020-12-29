@@ -1,4 +1,4 @@
-# year-archive.md
+# Year-archive.md
 ---
 title: "Posts by Year"
 permalink: /year-archive/
