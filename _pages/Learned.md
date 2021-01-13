@@ -1,8 +1,6 @@
 ---
-title: "Posts by Category"
-layout: categories
 permalink: /Learned/
-author_profile: true
+excerpt: "Learned.md"
 toc: true
-tags: [learned]
+tags: [Learned]
 ---
