@@ -3,9 +3,9 @@ main:
 
    - title: "About"
      url: /about/
-   - title: "year-archive"
-     url: /year-archive/
-   - title: "Category-archive"
-     url: /Category-archive/
-   - title: "Publications"
-     url: /Publications/
+   - title: "Learned"
+     url: /Learned/
+   - title: "Life"
+     url: /Life/
+   - title: "etc"
+     url: /etc/
