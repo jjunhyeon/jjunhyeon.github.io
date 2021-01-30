@@ -1,6 +1,6 @@
 ---
+title: Posts by Leanred
+layout: categories
 permalink: /Learned/
-excerpt: "Learned.md"
-toc: true
-tags: [Learned]
+author_profile: true
 ---
