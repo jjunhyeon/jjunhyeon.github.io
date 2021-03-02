@@ -1,12 +1,12 @@
 ---
 layout: categories
 excerpt: 스택/큐 문제 
-title:  "test"
+title:  "프로그래머스 문제 풀기1"
 author_profile: true
 categories : Algorithm
 
 ---
-
+s
 * [문제보러가기](https://programmers.co.kr/learn/courses/30/lessons/42587 "프로그래머스 사이트로 이동합니다.")
 ---
 #### 01 나의 풀이
